@@ -20,8 +20,6 @@ done
 # push master
 git push -u origin master
 
-
-
 # build gh-pages
 git checkout gh-pages
 git add .
